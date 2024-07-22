@@ -1,5 +1,6 @@
 # **EyeDrop Color Picker**
 Welcome to the EyeDrop Color Picker! This intuitive web tool allows you to easily extract and explore colors from any image. Whether you're a designer, developer, or color enthusiast, our application offers a seamless experience for picking and visualizing colors.
+[Launch](https://harshitrajpurohit.github.io/EyeDrop-color-picker/).
 
 ## **Features**
 Upload an image
