@@ -9,9 +9,9 @@ Welcome to the EyeDrop Color Picker! This intuitive web tool allows you to easil
 4. Copy the color code to clipboard
 
 ## **Key Features**
-**Interactive Exploration**: Upload an image and click on any part of it to pick colors. Instantly view the color values in hex and RGB formats. <br>
-**Clipboard Integration**: Easily copy color codes with a single click for use in your design projects or to share with others. <br>
-**Web-Based Convenience**: Access the EyeDrop Color Picker directly from your web browser without any installations or downloads. Simply visit our site and start exploring colors. <br>
+1. **Interactive Exploration**: Upload an image and click on any part of it to pick colors. Instantly view the color values in hex and RGB formats. <br>
+2. **Clipboard Integration**: Easily copy color codes with a single click for use in your design projects or to share with others. <br>
+3. **Web-Based Convenience**: Access the EyeDrop Color Picker directly from your web browser without any installations or downloads. Simply visit our site and start exploring colors. <br>
 
 ## **Compatibility**
 This tool works exclusively on Chrome Desktop and Microsoft Edge.
