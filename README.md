@@ -3,10 +3,10 @@ Welcome to the EyeDrop Color Picker! This intuitive web tool allows you to easil
 [Launch](https://harshitrajpurohit.github.io/EyeDrop-color-picker/).
 
 ## **Features**
-Upload an image <br>
-Pick any color from the image <br>
-Display the selected color's hex code and RGB values <br>
-Copy the color code to clipboard <br>
+1. Upload an image
+2. Pick any color from the image
+3. Display the selected color's hex code.
+4. Copy the color code to clipboard
 
 ## **Key Features**
 **Interactive Exploration**: Upload an image and click on any part of it to pick colors. Instantly view the color values in hex and RGB formats. <br>
